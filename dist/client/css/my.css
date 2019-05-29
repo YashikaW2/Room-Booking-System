@@ -1,0 +1,41 @@
+.lbl {
+    font-size: 15px;
+    font-weight: initial;
+}
+.date {
+    font-size: 15px;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    border-radius: 0;
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    font-family: inherit;
+    /*background-color: white;*/
+}
+/*//////////////////////*/
+.one-font{
+    font-family: 'Tangerine', cursive;
+}
+div.gallery {
+    border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.mySlides {display:none;}
+
+
